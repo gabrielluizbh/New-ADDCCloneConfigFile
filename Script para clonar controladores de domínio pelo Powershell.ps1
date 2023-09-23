@@ -1,4 +1,4 @@
-﻿# Script para clonar controladores de domínio - Créditos Gabriel Luiz - www.gabrielluiz.com #
+﻿# Script para clonar controladores de domínio pelo Powershell - Créditos Gabriel Luiz - www.gabrielluiz.com #
 
 
 
