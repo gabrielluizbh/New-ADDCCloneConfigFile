@@ -1,7 +1,6 @@
 ﻿# Script para clonar controladores de domínio pelo Powershell - Créditos Gabriel Luiz - www.gabrielluiz.com #
 
 
-
 # Verfica qual é o controlador de domínio que possui o mestre de operações de emulador PDC e o seu sistema operacional.
 
 
