@@ -16,7 +16,6 @@ Get-adcomputer ADDS2 | %{add-adgroupmember "cloneable domain controllers" $_.sam
 
 
 
-
 # Esse comando exibe a lista de aplicativos excluídos no console.
 
 
@@ -33,7 +32,6 @@ Se já houver um arquivo CustomDCCloneAllowList.xml, esse cmdlet exibirá o delt
 
 
 #>
-
 
 
 
