@@ -107,8 +107,6 @@ New-ADDCCloneConfigFile - O cmdlet New-ADDCCloneConfigFile executa verificaçõe
 
 
 
-
-
 <#
 
 Referências:
