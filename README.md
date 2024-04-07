@@ -1,6 +1,6 @@
 # Script para clonar controladores de domínio pelo Powershell.
 
-**Conteúdos:**
+**Conteúdo:**
 
 Script para Habilitar a Replicação estendida do Hyper-V Réplica em ambiente de domínio.ps1
 
